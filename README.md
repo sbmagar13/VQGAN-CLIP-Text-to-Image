@@ -5,3 +5,8 @@ Project is here: <a href="https://colab.research.google.com/drive/19x9kcWYC8BLIR
 All step-by-step explanations of codes: <a href="https://budhathokisagar.com.np/blogs/6/" >Link to the post</a>
 <br>
 You'll completely know every single steps.
+<br>
+<br>
+text prompt(input): *A man fighting with a bull*
+<br>
+Output: <img src="" />
