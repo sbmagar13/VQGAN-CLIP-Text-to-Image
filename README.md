@@ -9,4 +9,5 @@ You'll completely know every single steps.
 <br>
 text prompt(input): *A man fighting with a bull*
 <br>
-Output: <img src="https://github.com/SBMagar/VQGAN-CLIP-Text-to-Image/blob/main/bull%20and%20man.jpg" />
+Output: 
+<img src="https://github.com/SBMagar/VQGAN-CLIP-Text-to-Image/blob/main/bull%20and%20man.jpg" />
