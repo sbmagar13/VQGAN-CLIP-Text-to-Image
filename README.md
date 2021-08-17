@@ -7,7 +7,7 @@ All step-by-step explanations of codes: <a href="https://budhathokisagar.com.np/
 You'll completely know every single steps.
 <br>
 <br>
-text prompt(input): *A man fighting with a bull*
+text prompt(input): #*A man fighting with a bull*
 <br> <br>
-Output: <br> crop: <br><img src="https://github.com/SBMagar/VQGAN-CLIP-Text-to-Image/blob/main/man-bull.png" /> </br></br> result: <br>
+Output: After 100 epochs <br> crop: <br><img src="https://github.com/SBMagar/VQGAN-CLIP-Text-to-Image/blob/main/man-bull.png" /> </br></br> result: <br>
 <img src="https://github.com/SBMagar/VQGAN-CLIP-Text-to-Image/blob/main/bull%20and%20man.jpg" />
