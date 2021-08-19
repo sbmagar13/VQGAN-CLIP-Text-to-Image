@@ -5,7 +5,7 @@ Project is here: <a href="https://colab.research.google.com/drive/19x9kcWYC8BLIR
 All step-by-step explanations of codes: <a href="https://budhathokisagar.com.np/blogs/6/" >Link to the post</a> <br>
 <br> Read story on Medium: <a href="https://medium.com/mlearning-ai/text-to-image-synthesis-using-multimodal-vqgan-clip-architectures-fab2d243f9dd"> Link to Medium</a>
 <br>
-You'll completely know every single steps.
+I guarantee that you'll completely understand every single steps. And completa a Advaneced GAN project.
 <br>
 <br>
 text prompt(input): #*A man fighting with a bull*
