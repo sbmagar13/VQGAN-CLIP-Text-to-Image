@@ -2,7 +2,7 @@
 
 Project is here: <a href="https://colab.research.google.com/drive/19x9kcWYC8BLIRoBQRmBIgX2GHH73KMTR?authuser=2#scrollTo=NMXe5V6nUfTo" >Link to Colab</a>
 <br>
-All step-by-step explanations of codes: <a href="https://budhathokisagar.com.np/blogs/6/" >Link to the post</a> <br>
+All step-by-step explanations of codes: <a href="[https://budhathokisagar.com.np/blogs/6/](https://budhathokisagar.com.np/blogs/2022/01/25/vqgan-clip-architecture/)" target="_blank" >Link to the post</a> <br>
 <br> Read story on Medium: <a href="https://medium.com/mlearning-ai/text-to-image-synthesis-using-multimodal-vqgan-clip-architectures-fab2d243f9dd"> Link to Medium</a>
 <br>
 I guarantee you that you'll completely understand every single step. And complete an advanced GAN project.
